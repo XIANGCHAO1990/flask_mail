@@ -2,3 +2,5 @@
 #flask_celery_send_mail
 
 在celery_test中的tasks.py中实现邮件发送任务
+在celery中创建celery
+setting中配置celery及邮箱
