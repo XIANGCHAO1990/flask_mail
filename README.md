@@ -1,2 +1,4 @@
 #flask_mail
 #flask_celery_send_mail
+
+在celery_test中的tasks.py中实现邮件发送任务
